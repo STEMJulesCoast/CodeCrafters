@@ -16,13 +16,3 @@ Fundamentals.ipynb enthält
     Boolesche Logik: Verwendung von booleschen Ausdrücken und logischen Operatoren.
     Einfache mathematische Funktionen: Nutzung grundlegender mathematischer Funktionen aus Bibliotheken.
     Testen und Debuggen: Grundlegende Methoden zum Testen und Debuggen von Code.
-
-### Wie man beginnt
-
-Um mit den Materialien in diesem Repository zu arbeiten, klonen Sie es einfach auf Ihren lokalen Computer:
-
-
-git clone REPOSITORY-URL
-
-Anschließend können Sie die Dateien mit einem Texteditor oder einer Entwicklungsumgebung Ihrer Wahl öffnen.
-
