@@ -8,10 +8,10 @@ Das Repository wird kontinuierlich um praxisnahe Beispiele erweitert, die es erm
 
 Fundamentals.ipynb enthält:
 
-Datentypen: Erläuterung der grundlegenden Datentypen wie Integer, Float, String etc.
-Variablen und Wertzuweisungen: Wie man Variablen erstellt und ihnen Werte zuweist.
-Kontrollstrukturen: Verständnis von Schleifen, Verzweigungen und Bedingungen.
-Funktionen und Prozeduren: Erstellung und Verwendung von Funktionen.
-Boolesche Logik: Verwendung von booleschen Ausdrücken und logischen Operatoren.
-Einfache mathematische Funktionen: Nutzung grundlegender mathematischer Funktionen aus Bibliotheken.
+- Datentypen: Erläuterung der grundlegenden Datentypen wie Integer, Float, String etc.
+- Variablen und Wertzuweisungen: Wie man Variablen erstellt und ihnen Werte zuweist.
+- Kontrollstrukturen: Verständnis von Schleifen, Verzweigungen und Bedingungen.
+- Funktionen und Prozeduren: Erstellung und Verwendung von Funktionen.
+- Boolesche Logik: Verwendung von booleschen Ausdrücken und logischen Operatoren.
+- Einfache mathematische Funktionen: Nutzung grundlegender mathematischer Funktionen aus Bibliotheken.
 
